@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ssuchithrareddy0520
 - 👀 I’m interested in learning new skills
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning full stack web development
 - 💞️ Exploring Techworld
 - 📫 If you have any suggestions for me to learn programming fastly, you are welcome.
 
